@@ -1,0 +1,28 @@
+{
+  "name": "userscripts",
+  "version": "1.0.0",
+  "description": "Personal userscripts",
+  "main": "github-show-all-checks.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selfish/userscripts.git"
+  },
+  "keywords": [
+    "userscripts",
+    "userscript",
+    "greasemonkey",
+    "tampermonkey"
+  ],
+  "author": "selfish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selfish/userscripts/issues"
+  },
+  "homepage": "https://github.com/selfish/userscripts#readme",
+  "devDependencies": {
+    "eslint": "^7.23.0"
+  }
+}
